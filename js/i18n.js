@@ -38,7 +38,7 @@ const translations = {
     action3_title: "Awareness Campaigns",
     action3_text: "We take sustainability out of the conference room and into everyday life, on the street, on campus, at local events, using art and design to give people a reason to stop, look and join in.",
 
-    quote_text: "Start where you are. Use what you have. Do what you can.",
+    quote_text: "For the next generations. The future is green.",
 
     gallery_eyebrow: "On the ground",
     gallery_title: "From our recent cleanups",
@@ -118,7 +118,7 @@ const translations = {
     action3_title: "Campagnes de sensibilisation",
     action3_text: "Nous sortons la durabilité de la salle de réunion pour l'ancrer dans le quotidien : dans la rue, sur les campus, lors d'événements locaux, en utilisant l'art et le design pour donner aux gens une raison de s'arrêter, de regarder et de participer.",
 
-    quote_text: "Commencez là où vous êtes. Utilisez ce que vous avez. Faites ce que vous pouvez.",
+    quote_text: "Pour les générations futures. L'avenir est vert.",
 
     gallery_eyebrow: "Sur le terrain",
     gallery_title: "Nos derniers nettoyages",
