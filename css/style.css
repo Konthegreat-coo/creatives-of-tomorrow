@@ -419,6 +419,7 @@ ul { list-style: none; margin: 0; padding: 0; }
 .action-card:last-child { margin-bottom: 0; }
 .action-card-reverse .action-media { order: 2; }
 .action-card-reverse .action-copy { order: 1; }
+.action-copy { text-align: center; }
 
 .action-media {
   border-radius: var(--radius-lg);
