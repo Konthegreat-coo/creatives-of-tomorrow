@@ -34,7 +34,7 @@ const translations = {
     action1_title: "Community Cleanups",
     action1_text: "We organise regular cleanups across Paris and Île-de-France, in parks, along canals, riverbanks and public squares, restoring shared spaces one bag of waste at a time, together with local volunteers.",
     action2_title: "Educational Workshops",
-    action2_text: "From schools to companies, we run hands-on sessions that make sustainability tangible and practical, turning abstract ideas about climate and waste into everyday habits.",
+    action2_text: "We run hands-on sessions for schools, universities and companies, making sustainability tangible, and turning abstract ideas about climate and resources into everyday habits.",
     action3_title: "Awareness Campaigns",
     action3_text: "We meet people on the street, on campus and at local events, using creativity and design to make the case for a greener Paris impossible to ignore.",
 
@@ -114,7 +114,7 @@ const translations = {
     action1_title: "Nettoyages citoyens",
     action1_text: "Nous organisons régulièrement des nettoyages à Paris et en Île-de-France, dans les parcs, le long des canaux, sur les berges et sur les places publiques, pour restaurer les espaces partagés, sac après sac, avec des bénévoles locaux.",
     action2_title: "Ateliers pédagogiques",
-    action2_text: "Des écoles aux entreprises, nous animons des sessions pratiques qui rendent la durabilité concrète, transformant des idées abstraites sur le climat et les déchets en habitudes quotidiennes.",
+    action2_text: "Nous animons des sessions pratiques pour les écoles, les universités et les entreprises, en rendant la durabilité concrète, et en transformant des idées abstraites sur le climat et les ressources en habitudes quotidiennes.",
     action3_title: "Campagnes de sensibilisation",
     action3_text: "Nous allons à la rencontre des gens dans la rue, sur les campus et lors d'événements locaux, en utilisant la créativité et le design pour rendre incontournable la cause d'un Paris plus vert.",
 
