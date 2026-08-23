@@ -36,7 +36,7 @@ const translations = {
     action2_title: "Educational Workshops",
     action2_text: "We run hands-on sessions for schools, universities and companies, making sustainability tangible, and turning abstract ideas about climate and resources into everyday habits.",
     action3_title: "Awareness Campaigns",
-    action3_text: "We meet people on the street, on campus and at local events, using creativity and design to make the case for a greener Paris impossible to ignore.",
+    action3_text: "We take sustainability out of the conference room and into everyday life, on the street, on campus, at local events, using art and design to give people a reason to stop, look and join in.",
 
     quote_text: "Start where you are. Use what you have. Do what you can.",
 
@@ -116,7 +116,7 @@ const translations = {
     action2_title: "Ateliers pédagogiques",
     action2_text: "Nous animons des sessions pratiques pour les écoles, les universités et les entreprises, en rendant la durabilité concrète, et en transformant des idées abstraites sur le climat et les ressources en habitudes quotidiennes.",
     action3_title: "Campagnes de sensibilisation",
-    action3_text: "Nous allons à la rencontre des gens dans la rue, sur les campus et lors d'événements locaux, en utilisant la créativité et le design pour rendre incontournable la cause d'un Paris plus vert.",
+    action3_text: "Nous sortons la durabilité de la salle de réunion pour l'ancrer dans le quotidien : dans la rue, sur les campus, lors d'événements locaux, en utilisant l'art et le design pour donner aux gens une raison de s'arrêter, de regarder et de participer.",
 
     quote_text: "Commencez là où vous êtes. Utilisez ce que vous avez. Faites ce que vous pouvez.",
 
