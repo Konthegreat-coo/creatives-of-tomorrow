@@ -347,20 +347,6 @@ ul { list-style: none; margin: 0; padding: 0; }
 }
 .eyebrow-dark { color: var(--color-coral-deep); }
 
-.scroll-cue {
-  position: absolute;
-  bottom: var(--space-md);
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 2;
-  opacity: 0.85;
-  animation: bob 2.4s ease-in-out infinite;
-}
-@keyframes bob { 0%,100% { transform: translateX(-50%) translateY(0); } 50% { transform: translateX(-50%) translateY(8px); } }
-@media (prefers-reduced-motion: reduce) { .scroll-cue { animation: none; } }
-.scroll-dot { animation: scrollDot 2.4s ease-in-out infinite; }
-@keyframes scrollDot { 0%,100% { opacity: 1; transform: translateY(0); } 50% { opacity: 0.4; transform: translateY(6px); } }
-
 /* ===================================================================
    Reveal-on-scroll
 =================================================================== */
