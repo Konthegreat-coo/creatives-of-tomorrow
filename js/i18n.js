@@ -12,7 +12,7 @@ const translations = {
     nav_cta: "Take action",
 
     hero_title: "Creativity is our tool.<br>A sustainable tomorrow is our goal.",
-    hero_sub: "We're a Paris-based non-profit uniting community cleanups, hands-on workshops and awareness campaigns — believing creativity is one of the most powerful tools we have for building a better world.",
+    hero_sub: "We're a Paris-based non-profit uniting community cleanups, hands-on workshops and awareness campaigns, believing creativity is one of the most powerful tools we have for building a better world.",
     hero_cta_primary: "Get involved",
     hero_cta_secondary: "Discover our story",
 
@@ -91,7 +91,7 @@ const translations = {
     nav_cta: "Agir",
 
     hero_title: "La créativité est notre outil.<br>Un avenir durable est notre objectif.",
-    hero_sub: "Nous sommes une association parisienne qui réunit nettoyages citoyens, ateliers pratiques et campagnes de sensibilisation — convaincus que la créativité est l'un des outils les plus puissants pour construire un monde meilleur.",
+    hero_sub: "Nous sommes une association parisienne qui réunit nettoyages citoyens, ateliers pratiques et campagnes de sensibilisation, convaincus que la créativité est l'un des outils les plus puissants pour construire un monde meilleur.",
     hero_cta_primary: "S'impliquer",
     hero_cta_secondary: "Découvrir notre histoire",
 
