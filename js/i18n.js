@@ -32,11 +32,11 @@ const translations = {
     actions_title: "Our Actions",
     actions_lead: "The ways we turn belief into practice:",
     action1_title: "Community Cleanups",
-    action1_text: "We organise regular cleanups across Paris — parks, canals, riverbanks and public squares — restoring shared spaces one bag of waste at a time, together with local volunteers.",
+    action1_text: "We organise regular cleanups across Paris in parks, along canals, riverbanks and public squares, restoring shared spaces one bag of waste at a time, together with local volunteers.",
     action2_title: "Educational Workshops",
-    action2_text: "From schools to companies, we run hands-on sessions that make sustainability tangible and practical — turning abstract ideas about climate and waste into everyday habits.",
+    action2_text: "From schools to companies, we run hands-on sessions that make sustainability tangible and practical, turning abstract ideas about climate and waste into everyday habits.",
     action3_title: "Awareness Campaigns",
-    action3_text: "We meet people where they already are — on the street, on campus, at local events — using creativity and design to make the case for a greener Paris impossible to ignore.",
+    action3_text: "We meet people on the street, on campus and at local events, using creativity and design to make the case for a greener Paris impossible to ignore.",
 
     quote_text: "Start where you are. Use what you have. Do what you can.",
 
@@ -112,11 +112,11 @@ const translations = {
     actions_title: "Nos actions",
     actions_lead: "Les façons dont nous transformons nos convictions en actes :",
     action1_title: "Nettoyages citoyens",
-    action1_text: "Nous organisons régulièrement des nettoyages à Paris — parcs, canaux, berges et places publiques — pour restaurer les espaces partagés, sac après sac, avec des bénévoles locaux.",
+    action1_text: "Nous organisons régulièrement des nettoyages à Paris dans les parcs, le long des canaux, sur les berges et sur les places publiques, pour restaurer les espaces partagés, sac après sac, avec des bénévoles locaux.",
     action2_title: "Ateliers pédagogiques",
-    action2_text: "Des écoles aux entreprises, nous animons des sessions pratiques qui rendent la durabilité concrète — transformant des idées abstraites sur le climat et les déchets en habitudes quotidiennes.",
+    action2_text: "Des écoles aux entreprises, nous animons des sessions pratiques qui rendent la durabilité concrète, transformant des idées abstraites sur le climat et les déchets en habitudes quotidiennes.",
     action3_title: "Campagnes de sensibilisation",
-    action3_text: "Nous allons à la rencontre des gens là où ils se trouvent déjà — dans la rue, sur les campus, lors d'événements locaux — en utilisant la créativité et le design pour rendre incontournable la cause d'un Paris plus vert.",
+    action3_text: "Nous allons à la rencontre des gens dans la rue, sur les campus et lors d'événements locaux, en utilisant la créativité et le design pour rendre incontournable la cause d'un Paris plus vert.",
 
     quote_text: "Commencez là où vous êtes. Utilisez ce que vous avez. Faites ce que vous pouvez.",
 
