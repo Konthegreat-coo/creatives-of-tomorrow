@@ -25,7 +25,7 @@ const translations = {
     about_mission_label: "Our mission",
     about_mission_text: "Turn creativity into climate action, making sustainability visible, tangible and shared across our city.",
     about_vision_label: "Our vision",
-    about_vision_text: "A Paris, a France, a world where every neighbourhood, school and street corner is shaped by people who chose to act.",
+    about_vision_text: "A Paris, a France, a world where every neighbourhood, school and street corner is shaped by people who choose to act.",
     about_cta: "Join the movement",
 
     actions_eyebrow: "What we do",
