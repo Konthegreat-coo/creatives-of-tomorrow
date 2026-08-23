@@ -30,7 +30,7 @@ const translations = {
 
     actions_eyebrow: "What we do",
     actions_title: "Our Actions",
-    actions_lead: "Three ways we turn belief into practice, all across Paris and Île-de-France.",
+    actions_lead: "The ways we turn belief into practice.",
     action1_title: "Community Cleanups",
     action1_text: "We organise regular cleanups across Paris — parks, canals, riverbanks and public squares — restoring shared spaces one bag of waste at a time, together with local volunteers.",
     action2_title: "Educational Workshops",
@@ -110,7 +110,7 @@ const translations = {
 
     actions_eyebrow: "Ce que nous faisons",
     actions_title: "Nos actions",
-    actions_lead: "Trois façons de transformer nos convictions en actes, partout à Paris et en Île-de-France.",
+    actions_lead: "Les façons dont nous transformons nos convictions en actes.",
     action1_title: "Nettoyages citoyens",
     action1_text: "Nous organisons régulièrement des nettoyages à Paris — parcs, canaux, berges et places publiques — pour restaurer les espaces partagés, sac après sac, avec des bénévoles locaux.",
     action2_title: "Ateliers pédagogiques",
