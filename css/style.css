@@ -358,9 +358,12 @@ ul { list-style: none; margin: 0; padding: 0; }
    About
 =================================================================== */
 .about { position: relative; padding: var(--space-2xl) 0; overflow: hidden; }
-.leaf-deco { position: absolute; opacity: 0.55; pointer-events: none; z-index: 0; }
-.leaf-deco-1 { top: -40px; right: -60px; width: 260px; transform: rotate(12deg); }
-.leaf-deco-2 { bottom: -60px; left: -70px; width: 240px; transform: rotate(-18deg) scaleX(-1); }
+.leaf-deco-stack { position: absolute; display: flex; flex-direction: column; gap: 24px; pointer-events: none; z-index: 0; }
+.leaf-deco { opacity: 0.55; display: block; }
+.leaf-deco-stack-1 { top: -40px; right: -60px; }
+.leaf-deco-stack-1 .leaf-deco { width: 260px; transform: scaleY(-1) rotate(12deg); }
+.leaf-deco-stack-2 { bottom: -60px; left: -70px; }
+.leaf-deco-stack-2 .leaf-deco { width: 240px; transform: scaleY(-1) rotate(-18deg) scaleX(-1); }
 
 .about-grid {
   position: relative;
