@@ -23,9 +23,9 @@ const translations = {
     about_p2: "We work in three main ways: community cleanups that restore shared public spaces, educational workshops that make sustainability tangible and practical, and awareness campaigns that reach people where they already are.",
     about_p3: "Creativity is what ties it all together. We practise sustainability the way it's usually done and then look for ways to do it better. Each cleanup, workshop and campaign teaches us something we carry into the next one, so our work becomes more effective the longer we do it.",
     about_mission_label: "Our mission",
-    about_mission_text: "Turn creativity into climate action — making sustainability visible, tangible and shared across our city.",
+    about_mission_text: "Turn creativity into climate action, making sustainability visible, tangible and shared across our city.",
     about_vision_label: "Our vision",
-    about_vision_text: "A Paris where every neighbourhood, school and street corner is shaped by people who chose to act.",
+    about_vision_text: "A Paris, a France, a world where every neighbourhood, school and street corner is shaped by people who chose to act.",
     about_cta: "Join the movement",
 
     actions_eyebrow: "What we do",
@@ -103,9 +103,9 @@ const translations = {
     about_p2: "Nous agissons de trois façons : des nettoyages citoyens qui restaurent les espaces publics partagés, des ateliers pédagogiques qui rendent la durabilité concrète et pratique, et des campagnes de sensibilisation qui touchent les gens là où ils se trouvent déjà.",
     about_p3: "La créativité est ce qui relie tout cela. Nous pratiquons la durabilité comme elle se fait habituellement, puis nous cherchons comment faire mieux. Chaque nettoyage, chaque atelier et chaque campagne nous apprend quelque chose que nous emportons vers le suivant, si bien que notre action devient plus efficace au fil du temps.",
     about_mission_label: "Notre mission",
-    about_mission_text: "Transformer la créativité en action climatique — rendre la durabilité visible, concrète et partagée dans toute notre ville.",
+    about_mission_text: "Transformer la créativité en action climatique, en rendant la durabilité visible, concrète et partagée dans toute notre ville.",
     about_vision_label: "Notre vision",
-    about_vision_text: "Un Paris où chaque quartier, chaque école et chaque rue est façonné par des personnes qui ont choisi d'agir.",
+    about_vision_text: "Un Paris, une France, un monde où chaque quartier, chaque école et chaque rue est façonné par des personnes qui ont choisi d'agir.",
     about_cta: "Rejoindre le mouvement",
 
     actions_eyebrow: "Ce que nous faisons",
