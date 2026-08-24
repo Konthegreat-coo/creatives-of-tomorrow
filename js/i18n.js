@@ -48,7 +48,7 @@ const translations = {
     involved1_title: "Volunteer",
     involved1_text: "Join a cleanup, help facilitate a workshop, or lend your creative skills to a campaign. No experience needed, just curiosity and a smile!",
     involved2_title: "Donate",
-    involved2_text: "Your donation funds gloves, bags, workshop materials and campaign printing — every euro goes directly into local action.",
+    involved2_text: "Your donation covers gloves, bags, workshop materials, campaign printing, anything that makes each action possible.",
     involved3_title: "Partner with us",
     involved3_text: "Schools, companies and local associations — we build tailored workshops and campaigns for your community or team.",
 
@@ -124,7 +124,7 @@ const translations = {
     involved1_title: "Devenir bénévole",
     involved1_text: "Rejoignez un nettoyage, aidez à animer un atelier, ou mettez vos talents créatifs au service d'une campagne. Aucune expérience requise, juste de la curiosité et le sourire !",
     involved2_title: "Faire un don",
-    involved2_text: "Votre don finance les gants, les sacs, le matériel d'atelier et l'impression des campagnes — chaque euro est investi directement dans l'action locale.",
+    involved2_text: "Votre don couvre les gants, les sacs, le matériel d'atelier, l'impression des campagnes, tout ce qui rend chaque action possible.",
     involved3_title: "Devenir partenaire",
     involved3_text: "Écoles, entreprises et associations locales — nous construisons des ateliers et des campagnes sur mesure pour votre communauté ou votre équipe.",
 
