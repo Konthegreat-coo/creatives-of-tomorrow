@@ -43,7 +43,6 @@ const translations = {
     gallery_eyebrow: "Archive",
     gallery_title: "From our recent actions",
 
-    involved_eyebrow: "Join us",
     involved_title: "Get Involved",
     involved_lead: "Whichever way you can give — time, skills or support — there's a place for you at Creatives of Tomorrow.",
     involved1_title: "Volunteer",
@@ -123,7 +122,6 @@ const translations = {
     gallery_eyebrow: "Archives",
     gallery_title: "Nos dernières actions",
 
-    involved_eyebrow: "Rejoignez-nous",
     involved_title: "S'impliquer",
     involved_lead: "Quelle que soit votre façon de contribuer — temps, compétences ou soutien — il y a une place pour vous chez Creatives of Tomorrow.",
     involved1_title: "Devenir bénévole",
