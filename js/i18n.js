@@ -40,7 +40,7 @@ const translations = {
 
     quote_text: "For the next generations. The future is green.",
 
-    gallery_eyebrow: "On the ground",
+    gallery_eyebrow: "Archive",
     gallery_title: "From our recent cleanups",
 
     involved_eyebrow: "Join us",
@@ -120,7 +120,7 @@ const translations = {
 
     quote_text: "Pour les générations futures. L'avenir est vert.",
 
-    gallery_eyebrow: "Sur le terrain",
+    gallery_eyebrow: "Archives",
     gallery_title: "Nos derniers nettoyages",
 
     involved_eyebrow: "Rejoignez-nous",
