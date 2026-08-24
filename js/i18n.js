@@ -44,7 +44,7 @@ const translations = {
     gallery_title: "From our recent actions",
 
     involved_title: "Get Involved",
-    involved_lead: "Whichever way you can give — time, skills or support — there's a place for you at Creatives of Tomorrow.",
+    involved_lead: "Whichever way you can support, there's a place for you at Creatives of Tomorrow.",
     involved1_title: "Volunteer",
     involved1_text: "Join a cleanup, help facilitate a workshop, or lend your creative skills to a campaign. No experience needed — just show up.",
     involved1_cta: "Find an event →",
@@ -123,7 +123,7 @@ const translations = {
     gallery_title: "Nos dernières actions",
 
     involved_title: "S'impliquer",
-    involved_lead: "Quelle que soit votre façon de contribuer — temps, compétences ou soutien — il y a une place pour vous chez Creatives of Tomorrow.",
+    involved_lead: "Quelle que soit la façon dont vous pouvez nous soutenir, il y a une place pour vous chez Creatives of Tomorrow.",
     involved1_title: "Devenir bénévole",
     involved1_text: "Rejoignez un nettoyage, aidez à animer un atelier, ou mettez vos talents créatifs au service d'une campagne. Aucune expérience requise — venez comme vous êtes.",
     involved1_cta: "Trouver un événement →",
