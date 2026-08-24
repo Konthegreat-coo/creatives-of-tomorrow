@@ -41,7 +41,7 @@ const translations = {
     quote_text: "For the next generations. The future is green.",
 
     gallery_eyebrow: "Archive",
-    gallery_title: "From our recent cleanups",
+    gallery_title: "From our recent actions",
 
     involved_eyebrow: "Join us",
     involved_title: "Get Involved",
@@ -121,7 +121,7 @@ const translations = {
     quote_text: "Pour les générations futures. L'avenir est vert.",
 
     gallery_eyebrow: "Archives",
-    gallery_title: "Nos derniers nettoyages",
+    gallery_title: "Nos dernières actions",
 
     involved_eyebrow: "Rejoignez-nous",
     involved_title: "S'impliquer",
