@@ -50,7 +50,7 @@ const translations = {
     involved2_title: "Donate",
     involved2_text: "Your donation covers gloves, bags, workshop materials, campaign printing, anything that makes each action possible.",
     involved3_title: "Partner with us",
-    involved3_text: "Schools, companies and local associations — we build tailored workshops and campaigns for your community or team.",
+    involved3_text: "Schools, universities, companies, we run workshops, cleanups and campaigns together, bringing sustainability to your community.",
 
     contact_eyebrow: "Contact",
     contact_title: "Let's build tomorrow, together",
@@ -126,7 +126,7 @@ const translations = {
     involved2_title: "Faire un don",
     involved2_text: "Votre don couvre les gants, les sacs, le matériel d'atelier, l'impression des campagnes, tout ce qui rend chaque action possible.",
     involved3_title: "Devenir partenaire",
-    involved3_text: "Écoles, entreprises et associations locales — nous construisons des ateliers et des campagnes sur mesure pour votre communauté ou votre équipe.",
+    involved3_text: "Écoles, universités, entreprises, nous organisons ensemble ateliers, nettoyages et campagnes, pour apporter la durabilité dans votre communauté.",
 
     contact_eyebrow: "Contact",
     contact_title: "Construisons demain, ensemble",
