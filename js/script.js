@@ -186,7 +186,7 @@
       var message = form.message.value.trim();
 
       var body = "Name: " + name + "\nEmail: " + email + "\n\n" + message;
-      var mailto = "mailto:contact@creativesoftomorrow.org" +
+      var mailto = "mailto:contact@creativestomorrow.org" +
         "?subject=" + encodeURIComponent("[Creatives of Tomorrow] " + subject) +
         "&body=" + encodeURIComponent(body);
 
