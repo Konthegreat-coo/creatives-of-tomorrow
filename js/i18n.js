@@ -122,7 +122,7 @@ const translations = {
     gallery_title: "Nos dernières actions",
 
     involved_title: "S'impliquer",
-    involved_lead: "Quelle que soit la façon dont vous pouvez nous soutenir, il y a une place pour vous chez<br>Creatives of Tomorrow.",
+    involved_lead: "Quelle que soit votre façon de contribuer : temps, compétences ou soutien, il y a une place pour vous chez<br>Creatives of Tomorrow.",
     involved1_title: "Devenir bénévole",
     involved1_text: "Rejoignez un nettoyage, aidez à animer un atelier, ou mettez vos talents créatifs au service d'une campagne. Aucune expérience requise, juste de la curiosité et le sourire !",
     involved2_title: "Faire un don",
