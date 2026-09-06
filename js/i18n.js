@@ -89,7 +89,7 @@ const translations = {
     nav_cta: "Agir",
 
     hero_title: "La créativité est notre outil.<br>Un avenir durable est notre objectif.",
-    hero_sub: "Nous sommes une association parisienne qui réunit nettoyages citoyens, conférences universitaires, ateliers pratiques et campagnes de sensibilisation, convaincus que la créativité est l'un des outils les plus puissants pour construire un monde meilleur.",
+    hero_sub: "Convaincus que la créativité est l'un des outils les plus puissants pour construire un monde meilleur, nous sommes une association parisienne qui rassemble les citoyens autour de nettoyages collectifs, de conférences universitaires, d'ateliers pratiques et de campagnes de sensibilisation.",
     hero_cta_primary: "S'impliquer",
     hero_cta_secondary: "Découvrir notre histoire",
 
