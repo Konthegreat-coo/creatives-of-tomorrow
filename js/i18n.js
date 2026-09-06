@@ -103,7 +103,7 @@ const translations = {
     about_mission_label: "Notre mission",
     about_mission_text: "Transformer la créativité en action climatique, en rendant la durabilité visible, concrète et partagée dans toute notre ville.",
     about_vision_label: "Notre vision",
-    about_vision_text: "Un Paris, une France, un monde où chaque quartier, chaque école et chaque rue est façonné par des personnes qui ont choisi d'agir.",
+    about_vision_text: "Un Paris, une France, un monde où chaque quartier, chaque école et chaque rue est façonnée par des personnes qui ont choisi d'agir.",
     about_cta: "Rejoindre le mouvement",
 
     actions_eyebrow: "Ce que nous faisons",
