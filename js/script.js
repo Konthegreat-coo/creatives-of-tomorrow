@@ -47,31 +47,6 @@
     window.addEventListener("scroll", onScroll, { passive: true });
   }
 
-  /* ============ Mobile menu ============ */
-  function initMobileMenu() {
-    var toggle = document.getElementById("menu-toggle");
-    var nav = document.getElementById("main-nav");
-    if (!toggle || !nav) return;
-
-    function closeMenu() {
-      toggle.setAttribute("aria-expanded", "false");
-      nav.classList.remove("is-open");
-    }
-
-    toggle.addEventListener("click", function () {
-      var isOpen = nav.classList.toggle("is-open");
-      toggle.setAttribute("aria-expanded", String(isOpen));
-    });
-
-    nav.querySelectorAll("a").forEach(function (link) {
-      link.addEventListener("click", closeMenu);
-    });
-
-    document.addEventListener("keydown", function (e) {
-      if (e.key === "Escape") closeMenu();
-    });
-  }
-
   /* ============ Dropdown (Our Actions) ============ */
   function initDropdown() {
     var item = document.querySelector(".has-dropdown");
@@ -201,7 +176,6 @@
   document.addEventListener("DOMContentLoaded", function () {
     initLang();
     initHeaderScroll();
-    initMobileMenu();
     initDropdown();
     initReveal();
     initGallery();
