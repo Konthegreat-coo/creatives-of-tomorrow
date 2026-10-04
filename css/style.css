@@ -383,7 +383,7 @@ ul { list-style: none; margin: 0; padding: 0; }
   border-radius: var(--radius-lg);
   overflow: hidden;
   box-shadow: var(--shadow-lg);
-  aspect-ratio: 3/4;
+  aspect-ratio: 900/1015;
 }
 .about-photo-frame img { width: 100%; height: 100%; object-fit: cover; }
 .about-badge {
