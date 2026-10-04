@@ -9,7 +9,7 @@ const translations = {
     nav_awareness: "Awareness Campaigns",
     nav_involved: "Get Involved",
     nav_contact: "Contact",
-    nav_cta: "Take action",
+    nav_cta: "Donate",
 
     hero_title: "Creativity is our tool.<br>A sustainable tomorrow is our goal.",
     hero_sub: "We're a Paris-based non-profit bringing together community cleanups, university lectures, hands-on workshops and awareness campaigns, believing creativity is one of the most powerful tools we have for building a better world.",
@@ -50,6 +50,7 @@ const translations = {
     involved1_text: "Join a cleanup, help facilitate a workshop, or lend your creative skills to a campaign. No experience needed, just curiosity and a smile!",
     involved2_title: "Donate",
     involved2_text: "Your donation covers gloves, bags, workshop materials, campaign printing, anything that makes each action possible.",
+    involved2_cta: "Donate",
     involved3_title: "Partner with us",
     involved3_text: "Schools, universities, companies, we run workshops, cleanups and campaigns together, bringing sustainability to your community.",
 
@@ -86,7 +87,7 @@ const translations = {
     nav_awareness: "Campagnes de sensibilisation",
     nav_involved: "S'impliquer",
     nav_contact: "Contact",
-    nav_cta: "Agir",
+    nav_cta: "Faire un don",
 
     hero_title: "La créativité est notre outil.<br>Un avenir durable est notre objectif.",
     hero_sub: "Nous sommes une association parisienne convaincue que la créativité est l'un des outils les plus puissants pour construire un monde meilleur. Nous rassemblons les citoyens autour de nettoyages collectifs, de conférences universitaires, d'ateliers pratiques et de campagnes de sensibilisation.",
@@ -127,6 +128,7 @@ const translations = {
     involved1_text: "Rejoignez un nettoyage, aidez à animer un atelier, ou mettez vos talents créatifs au service d'une campagne. Aucune expérience requise, juste de la curiosité et le sourire !",
     involved2_title: "Faire un don",
     involved2_text: "Votre don couvre les gants, les sacs, le matériel d'atelier, l'impression des campagnes, tout ce qui rend chaque action possible.",
+    involved2_cta: "Faire un don",
     involved3_title: "Devenir partenaire",
     involved3_text: "Écoles, universités, entreprises, nous organisons ensemble ateliers, nettoyages et campagnes, pour apporter la durabilité dans votre communauté.",
 
