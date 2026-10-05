@@ -74,7 +74,15 @@ const translations = {
     footer_explore: "Explore",
     footer_gallery: "Gallery",
     footer_contact: "Contact",
-    footer_legal: "© 2026 Creatives of Tomorrow — Non-profit association (loi 1901), Paris."
+    footer_legal: "© 2026 Creatives of Tomorrow — Non-profit association (loi 1901), Paris.",
+    legal_title: "Legal notice",
+    legal_assoc: "Creatives of Tomorrow, non-profit association (loi 1901)",
+    legal_rna: "RNA number:",
+    legal_office: "Registered office:",
+    legal_director: "Publication director:",
+    legal_director_role: "President",
+    legal_contact: "Contact:",
+    legal_host: "Hosting:"
   },
 
   fr: {
@@ -152,6 +160,14 @@ const translations = {
     footer_explore: "Explorer",
     footer_gallery: "Galerie",
     footer_contact: "Contact",
-    footer_legal: "© 2026 Creatives of Tomorrow — Association loi 1901, Paris."
+    footer_legal: "© 2026 Creatives of Tomorrow — Association loi 1901, Paris.",
+    legal_title: "Mentions légales",
+    legal_assoc: "Creatives of Tomorrow, association loi 1901",
+    legal_rna: "N° RNA :",
+    legal_office: "Siège social :",
+    legal_director: "Directeur de la publication :",
+    legal_director_role: "Président",
+    legal_contact: "Contact :",
+    legal_host: "Hébergement :"
   }
 };
